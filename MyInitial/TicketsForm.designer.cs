@@ -143,7 +143,7 @@
             // radBlack
             // 
             this.radBlack.AutoSize = true;
-            this.radBlack.Location = new System.Drawing.Point(26, 88);
+            this.radBlack.Location = new System.Drawing.Point(26, 87);
             this.radBlack.Name = "radBlack";
             this.radBlack.Size = new System.Drawing.Size(75, 17);
             this.radBlack.TabIndex = 9;
