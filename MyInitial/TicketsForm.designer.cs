@@ -37,7 +37,6 @@
             this.radGeneral = new System.Windows.Forms.RadioButton();
             this.radBox = new System.Windows.Forms.RadioButton();
             this.grpSection = new System.Windows.Forms.GroupBox();
-            this.radBlack = new System.Windows.Forms.RadioButton();
             this.cmdCalculate = new System.Windows.Forms.Button();
             this.chChild = new System.Windows.Forms.CheckBox();
             this.grpSection.SuspendLayout();
@@ -120,7 +119,6 @@
             // 
             // grpSection
             // 
-            this.grpSection.Controls.Add(this.radBlack);
             this.grpSection.Controls.Add(this.radBox);
             this.grpSection.Controls.Add(this.radGeneral);
             this.grpSection.Controls.Add(this.radBalcony);
@@ -130,17 +128,6 @@
             this.grpSection.TabIndex = 9;
             this.grpSection.TabStop = false;
             this.grpSection.Text = "Section";
-            // 
-            // radBlack
-            // 
-            this.radBlack.AutoSize = true;
-            this.radBlack.Location = new System.Drawing.Point(26, 88);
-            this.radBlack.Name = "radBlack";
-            this.radBlack.Size = new System.Drawing.Size(75, 17);
-            this.radBlack.TabIndex = 9;
-            this.radBlack.TabStop = true;
-            this.radBlack.Text = "Black Stall";
-            this.radBlack.UseVisualStyleBackColor = true;
             // 
             // cmdCalculate
             // 
@@ -197,7 +184,6 @@
         private System.Windows.Forms.RadioButton radBox;
         private System.Windows.Forms.GroupBox grpSection;
         private System.Windows.Forms.Button cmdCalculate;
-        private System.Windows.Forms.RadioButton radBlack;
         private System.Windows.Forms.CheckBox chChild;
     }
 }
