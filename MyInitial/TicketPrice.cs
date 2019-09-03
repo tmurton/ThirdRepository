@@ -12,7 +12,6 @@ namespace Ticketing
         private int discount;
         private decimal amountDue;
         private decimal mPrice;
-        private bool childDiscount;
 
         const decimal mdecBalcony = 35.5m;
         const decimal mdecGeneral = 28.75m;
