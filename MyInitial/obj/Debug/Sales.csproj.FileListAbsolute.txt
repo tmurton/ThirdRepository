@@ -20,3 +20,4 @@ D:\ThirdRepository\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
 D:\ThirdRepository\MyInitial\obj\Debug\Sales.csproj.GenerateResource.Cache
 D:\ThirdRepository\MyInitial\bin\Debug\MyNameSpace.exe
 D:\ThirdRepository\MyInitial\bin\Debug\MyNameSpace.pdb
+D:\ThirdRepository\MyInitial\obj\Debug\Sales.csprojResolveAssemblyReference.cache
